@@ -1,5 +1,0 @@
-V	231203121505Z		01	unknown	/C=SI/ST=Postojna/L=Postojna/O=Local server, Limited/CN=Seminarska naloga
-V	231203130429Z		02	unknown	/C=SI/ST=Postojna/L=Postojna/O=Local server, Limited/CN=Seminarska naloga
-V	231203131011Z		03	unknown	/C=SI/ST=Postojna/L=Postojna/O=Local server, Limited/CN=Local server
-V	231203132311Z		04	unknown	/C=SI/ST=Postojna/L=Postojna/O=Local server, Limited/CN=Local server
-V	231204152820Z		05	unknown	/C=SI/ST=Postojna/L=Postojna/O=Local server, Limited/CN=Local server

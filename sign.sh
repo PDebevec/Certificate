@@ -1,1 +1,0 @@
-openssl ca -config ./CA/sign-ca.conf -policy signing_policy -extensions signing_req -out servercert.pem -passin file:./CA/passwd.conf -infiles servercert.csr
