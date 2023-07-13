@@ -1,0 +1,1 @@
+RMDIR /S .\root

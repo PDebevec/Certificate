@@ -1,3 +1,7 @@
-.key
-.pub
-.cert
+*.key
+*.pub
+*.cert
+*.srl
+*.pem
+
+/root/
